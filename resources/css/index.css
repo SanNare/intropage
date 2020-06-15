@@ -1,0 +1,40 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(128, 0, 0);
+    background-color: aquamarine;
+  }
+  
+  
+  h1 {
+    color: SeaGreen;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+
+figure {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+}
+
+.intro h1 {
+    text-align: center;
+    text-emphasis: weight;
+    font-size: xx-large;
+}
